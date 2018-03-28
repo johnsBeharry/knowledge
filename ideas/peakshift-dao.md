@@ -1,12 +1,14 @@
 # Peak Shift — DAO
 
-*A decentralised digital agency — goverened by code, owned by all, protected by staking…*
+*A decentralised digital agency — solidified in code, goverened by all, enforced by staking…*
 
 #### Introduction
 
 The future of work requires companies give their staff flexibility so they can design their lives the way they want.
 
-Employees are rejecting the structures that traditional companies have been established on, by requested to work from home to reduce cost of comunite and take back their time.
+Employees are rejecting the structures of traditional companies — they have been requesting to work from home in order to reduce costs, be more productive, and allocate time to do other things.
+
+— up to 4 hours per day which was used for commute (find source for commute time).
 
 These workers then started traveling, sometimes. (find source about incrase of work from home)
 
@@ -14,9 +16,47 @@ These companies then saw the benfiits of hiring workers from (find source)
 
  because they are too rigid.
 
-We see a rise in freelance, self employed and contrator roles.
+We see a rise in freelance, self employed and contractor roles. The current wave of sucesses startups like AirBnB, Uber, Deliveroo, TaskRabbit have seen prove the 
 
-The current sucesses of startups like AirBnB, Uber, Deliveroo, TaskRabbit prove the turn of 
+#### Task Based vs Time Based ⁉️
+
+Should work be measured by the amount of time it takes to complete or the value of the result?
+
+The latter suggests that work becomes a comodity.
+
+Here's a breakdown of pros and cons for <u>Task based pricing</u> of work:
+
+| PROS                                     | CONS                                     |
+| ---------------------------------------- | ---------------------------------------- |
+| Specialisation of tasks can drive prices down for projects. | Time is always a constraint — so it should also be factored into the pricing. |
+| Standaridsation of work and pricing makes decision making easier — as there is less ambigutiy on the result. | Fix time rewards may be to rigid for projects — although it is seen as more |
+|                                          |                                          |
+
+Here's a breakdown of pros and cons for <u>Time based pricing</u> of work:
+
+| PROS | CONS |
+| ---- | ---- |
+| -    | -    |
+| -    | -    |
+|      |      |
+
+
+
+#### Concensus Mechanism — PoW
+
+Therefore a consensus mechanism needs to be thouigh of in order to verify work is being done as the service provider claims.
+
+```markdown
+// COMMENTS
+
+In order to have a system that enables two individuals that have no reason to trust each other to come together in a client-service marketplace, it is fundimental to come up with a way to not only protect the service provider(staked project payment), but also to validate the service provider is acting truthfully and performing the work they claim.
+
+// RESEARCH
+
+TrueBit may be trying to solve problems with verifiable digital work.
+```
+
+
 
 #### Global Variables
 
