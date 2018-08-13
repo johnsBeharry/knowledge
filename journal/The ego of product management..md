@@ -1,4 +1,4 @@
-# The ego of project management.
+# The ego of product management.
 
 It seems like owning the strategic direction of a product is the most glorified position to have.
 
