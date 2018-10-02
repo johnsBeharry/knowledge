@@ -18,7 +18,7 @@ Can earn tokens by:
 
 1. Writing processes
 2. Designing or development tasks relating to features of the DAO
-3. ​
+3. 
 
 **Clients / Projects**
 

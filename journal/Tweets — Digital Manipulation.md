@@ -4,7 +4,9 @@
 
 It's not about connecting us, but about controlling communciations.
 
-It didn't start this way...
+It didn't start this way, smaller communities shared 
+
+Noise... 
 
 ### Advertising
 
