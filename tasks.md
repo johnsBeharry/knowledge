@@ -13,4 +13,3 @@
 - [ ] Write an article with an outline of the vision of what Peak Shift v2.0.0 would look like (high level)
 - [ ] Launch a Landing page for Peak Shift v2.0.0
 - [ ] Create Flow Diagram of "The Peak Shift Way", the project management process we used to do work
-

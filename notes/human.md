@@ -17,3 +17,12 @@ What does "accessible" mean for projects that I'm aiming to work on?
 - Free Option
 - Progressive Web Application vs. Native Application(centralised?)
 - Education
+
+What are the grandest goals for humanity?
+
+1. not being stuck on 1 planet
+2. ...
+
+What are the steps to get there?
+
+1. ...
