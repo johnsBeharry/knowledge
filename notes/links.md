@@ -33,4 +33,8 @@
 ## Ethereum — Python
 
 1. Python Ecosystem of Ethereum — https://medium.com/@pipermerriam/the-python-ethereum-ecosystem-101bd9ba4de7
-2. 
+
+## Good Reads
+
+1. This article brain f**ked me — my view on privacy has mostly been leaning to open systems.
+   https://www.tonysheng.com/privacy-freedom-crypto-anarchy#fn:regulated
