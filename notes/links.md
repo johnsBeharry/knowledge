@@ -10,6 +10,7 @@
 
 1. A great run down to get started with the basics for programmers of other langauges — https://golang.org/doc/code.html#Testing
 2. https://www.infoq.com/articles/build-a-container-golang
+3. Functions -- https://golangbot.com/functions/
 
 ## Interesting Projects
 
@@ -38,3 +39,7 @@
 
 1. This article brain f**ked me — my view on privacy has mostly been leaning to open systems.
    https://www.tonysheng.com/privacy-freedom-crypto-anarchy#fn:regulated
+
+## Misc
+
+1. Vim Keys -- https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally
