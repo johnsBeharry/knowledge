@@ -22,3 +22,4 @@
 
 - Memory hard and computationally intensive function
 - 2050 salsa8 hashing function executing one after each
+
