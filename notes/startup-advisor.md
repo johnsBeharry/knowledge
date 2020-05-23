@@ -1,0 +1,6 @@
+- Perform Design sprints and user research + testing
+- Define and execute sales, marketing, product, and operational strategies
+- Build product teams
+- Build customer relationships and experiences
+- Pitching and Fundraising
+- Coaching founders and executives
