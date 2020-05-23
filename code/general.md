@@ -17,3 +17,8 @@ A associative array that utilises a hashing function to generate the keys.
 - [Scalability](https://en.wikipedia.org/wiki/Scale_(computing)): the system should function efficiently even with thousands or millions of nodes.
 
 A key technique used to achieve these goals is that any one node needs to coordinate with only a few other nodes in the system – most commonly, [O](https://en.wikipedia.org/wiki/Big_O_notation)(log *n*) of the n![n](https://wikimedia.org/api/rest_v1/media/math/render/svg/a601995d55609f2d9f5e233e36fbe9ea26011b3b) participants (see below) – so that only a limited amount of work needs to be done for each change in membership.
+
+###### Streams
+
+- Used often when needing to process a large amount of data that is not possible to store in memory.
+- 
