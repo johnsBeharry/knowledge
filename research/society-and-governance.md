@@ -14,7 +14,7 @@
 
 ###### Rent-seeking
 
-- In public choice theory and in economics, rent-seeking involves seeking to increase one's share of existing wealth without creating new wealth
+- In public choice theory and in economics, rent-seeking involves seeking to increase one's share of existing wealth without creating new wealth. Examples may include escrow services which charge commision — these are the 
 
 ###### RESOURCES
 
