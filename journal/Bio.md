@@ -7,7 +7,3 @@ A fellow Caribbean tech entrepreneur Gabrial Abed founder of Bitt.com phrased it
 > *"we can build international standard technology products but we cannot' get get paid for it"*
 
 We are on an island literally, and metaphorically. Locked out of the digital economy.
-
-Thats why when I discovered Bitcoin in 2012 I knew this was something which is going to be the great equaliser -- modern infrustructure for global payments, without restrictions of class, connections, or borders.
-
-### 

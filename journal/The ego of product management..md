@@ -15,3 +15,4 @@ Who should be appointed this role though?
 *Without a sceintfic method and it becomes a clash of egos.*
 
 *[Add reference to the lean startup]*
+

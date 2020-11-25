@@ -4,7 +4,7 @@
 
 I'm from the Caribbean and recently myself and a colleage at my company spent 2 months in Kenya and Rwanda this year meeting with startups and techies and it was really inspiring and educational — we met a a startup founder in Rwanda who makes floors for people in rural areas using science! — they created an alternative to concerte using local materials. In Mombasa we met one developer who works on a startup providing legal aid over mobile.
 
-I'm from a place where people also consider third world but regardless this, we have created a technology consulting company that works with clients in all regions of the globe. I'm eager to meet more people who perceiver past the environment, and infrustructure they are dealt with to create things.
+I'm from a place where people also consider "third world" but regardless this, we have created a technology consulting company that works with clients in all regions of the globe. I'm eager to meet more people who perceiver past the environment, and infrustructure they are dealt with to create things.
 
 Especially those in the technology industry where this infrusctuture is so critical to operate.
 
